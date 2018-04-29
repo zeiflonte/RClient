@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3E32555F-A700-4782-B8E0-9A7693D2D68D}</ProjectGuid>
+    <ProjectGuid>{11B4139A-A19C-46B0-86C6-48BC0F12BB5F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RCClient</RootNamespace>
